@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /docs/font/HowBrowsersWork/history
+      link: /docs/detail/web
       target: _blank
 features:
   - title: Web Page (web 项目)
