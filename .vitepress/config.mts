@@ -4,12 +4,12 @@ import escookConfig from '@escook/vitepress-theme/config';
 export default defineConfigWithTheme({
   extends: escookConfig,
   title: '不一样的少年~',
-  base: '/blog/',
+  base: '/onion-cli-homepage/',
   appearance: 'dark',
-  head: [['link', { rel: 'icon', href: '/blog/img/icon.svg' }]],
+  head: [['link', { rel: 'icon', href: '/onion-cli-homepage/img/icon.svg' }]],
   themeConfig: {
     musicBall: {
-      src: '/blog/mp3/永远同在.mp3',
+      src: '/onion-cli-homepage/mp3/永远同在.mp3',
       autoplay: true,
       loop: true,
     },
