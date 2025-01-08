@@ -1,7 +1,6 @@
-node 版本 19
+node 版本 21
 
 npm run pnpm -g
 
-pnpm install
-
+pnpm inst
 pnpm run dev
